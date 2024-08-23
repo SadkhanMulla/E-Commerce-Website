@@ -16,7 +16,7 @@ FEATURES
 
 
 TECHNOLOGIES USED
-
+--------------------------------------------------
 1)React.js: Front-end framework.
 
 2)Vite: Development build tool.
@@ -27,6 +27,7 @@ TECHNOLOGIES USED
 
 
 INSTALLATION AND SETUP
+-------------------------------------------------
 #Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -36,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 
 
 LOCAL DEVELOPMENT
-
+--------------------------------------------------
 1)Clone the repository: ( git clone https://github.com/SadkhanMulla/E-Commerce-Website.git )
 
 2)Install Dependencies: ( npm install )
