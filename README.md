@@ -15,20 +15,30 @@ Features
 5)Checkout Page: Simple checkout process.
 
 Technologies Used
+
 1)React.js: Front-end framework.
+
 2)Vite: Development build tool.
+
 3)Bootstrap: CSS framework for responsive design.
+
 4)HTML/CSS: Core web technologies.
 
 Installation and Setup
+
 #Prerequisites
 Before you begin, ensure you have met the following requirements:
+
 1)Node.js (version 14 or above)
+
 2)npm or yarn installed
 
 Local Development
+
 1)Clone the repository: ( git clone https://github.com/SadkhanMulla/E-Commerce-Website.git )
+
 2)Install Dependencies: ( npm install )
+
 3)Start the Development Server : ( npm run dev )
 
 
