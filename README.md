@@ -2,8 +2,7 @@ E-Commerce Website
 
 This is a simple e-commerce website built using React.js, Vite, HTML, CSS, and Bootstrap. The website allows users to browse products, search, filter, sort, and view product details.
 
-Features
-
+FEATURES
 1)Product Listing: Display a list of products with load more functionality.
 
 2)Search Bar: Search With Brand Name.
@@ -14,7 +13,8 @@ Features
 
 5)Checkout Page: Simple checkout process.
 
-Technologies Used
+
+TECHNOLOGIES USED
 
 1)React.js: Front-end framework.
 
@@ -24,8 +24,8 @@ Technologies Used
 
 4)HTML/CSS: Core web technologies.
 
-Installation and Setup
 
+INSTALLATION AND SETUP
 #Prerequisites
 Before you begin, ensure you have met the following requirements:
 
@@ -33,7 +33,8 @@ Before you begin, ensure you have met the following requirements:
 
 2)npm or yarn installed
 
-Local Development
+
+LOCAL DEVELOPMENT
 
 1)Clone the repository: ( git clone https://github.com/SadkhanMulla/E-Commerce-Website.git )
 
