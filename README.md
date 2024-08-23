@@ -43,10 +43,12 @@ LOCAL DEVELOPMENT
 2)Install Dependencies: ( npm install )
 
 3)Start the Development Server : ( npm run dev )
-
+--------------------------------------------------
 
 #Additional Documentation
+
 #React + Vite
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 Currently, two official plugins are available:
 
