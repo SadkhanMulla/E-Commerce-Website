@@ -1,8 +1,9 @@
 E-Commerce Website
-
+---------------------------------------------------
 This is a simple e-commerce website built using React.js, Vite, HTML, CSS, and Bootstrap. The website allows users to browse products, search, filter, sort, and view product details.
 
 FEATURES
+--------------------------------------------------
 1)Product Listing: Display a list of products with load more functionality.
 
 2)Search Bar: Search With Brand Name.
