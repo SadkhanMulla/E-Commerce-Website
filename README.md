@@ -33,7 +33,7 @@ Before you begin, ensure you have met the following requirements:
 
 1) Node.js (version 14 or above)
 
-2) npm or yarn installed
+2) npm installed
 
 
 LOCAL DEVELOPMENT
