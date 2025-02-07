@@ -14,7 +14,6 @@ FEATURES
 
 5) Checkout Page: Simple checkout process.
 
-
 TECHNOLOGIES USED
 --------------------------------------------------
 1) React.js: Front-end framework.
